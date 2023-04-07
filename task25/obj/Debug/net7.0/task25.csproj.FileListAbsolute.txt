@@ -1,0 +1,15 @@
+/Users/new/Desktop/c#test4/task25/obj/Debug/net7.0/task25.csproj.AssemblyReference.cache
+/Users/new/Desktop/c#test4/task25/obj/Debug/net7.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/new/Desktop/c#test4/task25/obj/Debug/net7.0/task25.AssemblyInfoInputs.cache
+/Users/new/Desktop/c#test4/task25/obj/Debug/net7.0/task25.AssemblyInfo.cs
+/Users/new/Desktop/c#test4/task25/obj/Debug/net7.0/task25.csproj.CoreCompileInputs.cache
+/Users/new/Desktop/c#test4/task25/bin/Debug/net7.0/task25
+/Users/new/Desktop/c#test4/task25/bin/Debug/net7.0/task25.deps.json
+/Users/new/Desktop/c#test4/task25/bin/Debug/net7.0/task25.runtimeconfig.json
+/Users/new/Desktop/c#test4/task25/bin/Debug/net7.0/task25.dll
+/Users/new/Desktop/c#test4/task25/bin/Debug/net7.0/task25.pdb
+/Users/new/Desktop/c#test4/task25/obj/Debug/net7.0/task25.dll
+/Users/new/Desktop/c#test4/task25/obj/Debug/net7.0/refint/task25.dll
+/Users/new/Desktop/c#test4/task25/obj/Debug/net7.0/task25.pdb
+/Users/new/Desktop/c#test4/task25/obj/Debug/net7.0/task25.genruntimeconfig.cache
+/Users/new/Desktop/c#test4/task25/obj/Debug/net7.0/ref/task25.dll
