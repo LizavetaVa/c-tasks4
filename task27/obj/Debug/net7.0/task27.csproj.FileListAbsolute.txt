@@ -1,0 +1,15 @@
+/Users/new/Desktop/c#test4/task27/bin/Debug/net7.0/task27
+/Users/new/Desktop/c#test4/task27/bin/Debug/net7.0/task27.deps.json
+/Users/new/Desktop/c#test4/task27/bin/Debug/net7.0/task27.runtimeconfig.json
+/Users/new/Desktop/c#test4/task27/bin/Debug/net7.0/task27.dll
+/Users/new/Desktop/c#test4/task27/bin/Debug/net7.0/task27.pdb
+/Users/new/Desktop/c#test4/task27/obj/Debug/net7.0/task27.csproj.AssemblyReference.cache
+/Users/new/Desktop/c#test4/task27/obj/Debug/net7.0/task27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/new/Desktop/c#test4/task27/obj/Debug/net7.0/task27.AssemblyInfoInputs.cache
+/Users/new/Desktop/c#test4/task27/obj/Debug/net7.0/task27.AssemblyInfo.cs
+/Users/new/Desktop/c#test4/task27/obj/Debug/net7.0/task27.csproj.CoreCompileInputs.cache
+/Users/new/Desktop/c#test4/task27/obj/Debug/net7.0/task27.dll
+/Users/new/Desktop/c#test4/task27/obj/Debug/net7.0/refint/task27.dll
+/Users/new/Desktop/c#test4/task27/obj/Debug/net7.0/task27.pdb
+/Users/new/Desktop/c#test4/task27/obj/Debug/net7.0/task27.genruntimeconfig.cache
+/Users/new/Desktop/c#test4/task27/obj/Debug/net7.0/ref/task27.dll
