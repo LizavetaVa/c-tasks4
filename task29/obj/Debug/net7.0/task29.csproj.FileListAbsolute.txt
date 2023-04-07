@@ -1,0 +1,15 @@
+/Users/new/Desktop/c#test4/task29/bin/Debug/net7.0/task29
+/Users/new/Desktop/c#test4/task29/bin/Debug/net7.0/task29.deps.json
+/Users/new/Desktop/c#test4/task29/bin/Debug/net7.0/task29.runtimeconfig.json
+/Users/new/Desktop/c#test4/task29/bin/Debug/net7.0/task29.dll
+/Users/new/Desktop/c#test4/task29/bin/Debug/net7.0/task29.pdb
+/Users/new/Desktop/c#test4/task29/obj/Debug/net7.0/task29.csproj.AssemblyReference.cache
+/Users/new/Desktop/c#test4/task29/obj/Debug/net7.0/task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/new/Desktop/c#test4/task29/obj/Debug/net7.0/task29.AssemblyInfoInputs.cache
+/Users/new/Desktop/c#test4/task29/obj/Debug/net7.0/task29.AssemblyInfo.cs
+/Users/new/Desktop/c#test4/task29/obj/Debug/net7.0/task29.csproj.CoreCompileInputs.cache
+/Users/new/Desktop/c#test4/task29/obj/Debug/net7.0/task29.dll
+/Users/new/Desktop/c#test4/task29/obj/Debug/net7.0/refint/task29.dll
+/Users/new/Desktop/c#test4/task29/obj/Debug/net7.0/task29.pdb
+/Users/new/Desktop/c#test4/task29/obj/Debug/net7.0/task29.genruntimeconfig.cache
+/Users/new/Desktop/c#test4/task29/obj/Debug/net7.0/ref/task29.dll
